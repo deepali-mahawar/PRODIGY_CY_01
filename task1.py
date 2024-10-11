@@ -1,3 +1,10 @@
+# Task 01 - Caesar Cipher Implementation
+This repository contains the Python code for implementing the Caesar Cipher as part of my internship at Prodigy InfoTech.
+
+## Instructions:
+- The program encrypts and decrypts messages using a shift value provided by the user.
+- To run the code, execute `task1.py` and follow the prompts.
+
 # Function to encrypt the message using Caesar Cipher
 def encrypt(text, shift):
     encrypted_text = ""
